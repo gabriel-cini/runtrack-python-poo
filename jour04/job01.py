@@ -25,7 +25,7 @@ class Professeur(Personne):
     
     def enseigner(self):
         print("Le cours va commencer")
-# Instanciation d'un objet Personne avec l'âge (14)
+# Instanciation d'un objet Personne avec l'âge
 personne1 = Personne()
 
 # Instanciation d'un objet Eleve
